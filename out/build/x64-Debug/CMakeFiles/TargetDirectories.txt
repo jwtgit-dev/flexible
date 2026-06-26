@@ -1,0 +1,3 @@
+D:/trae/flexible-timetabling/out/build/x64-Debug/CMakeFiles/timetabling.dir
+D:/trae/flexible-timetabling/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/trae/flexible-timetabling/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

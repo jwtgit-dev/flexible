@@ -1,0 +1,19 @@
+# ninja log v6
+380	1305	8041798975903412	CMakeFiles/timetabling.dir/src/models/Classroom.cpp.obj	b1441cb3e9095273
+341	1334	8041798975507576	CMakeFiles/timetabling.dir/src/models/ClassGroup.cpp.obj	ec3680c184650ac9
+414	1350	8041798976249129	CMakeFiles/timetabling.dir/src/models/Course.cpp.obj	839b04cce2c0e243
+460	1460	8041798976694810	CMakeFiles/timetabling.dir/src/models/ScheduledClass.cpp.obj	e88b1bfca485a642
+495	1496	8041798977048420	CMakeFiles/timetabling.dir/src/models/Teacher.cpp.obj	835b44722081431f
+532	1567	8041798977422373	CMakeFiles/timetabling.dir/src/models/TimeSlot.cpp.obj	62beb392e09eb1c5
+570	1740	8041798977810655	CMakeFiles/timetabling.dir/src/models/TimetableData.cpp.obj	1e463a92498befdb
+115	1751	8041798973246482	CMakeFiles/timetabling.dir/src/constraints/ConstraintManager.cpp.obj	fb67394bb70dcb82
+13	2033	8041798972235780	CMakeFiles/timetabling.dir/src/algorithm/Chromosome.cpp.obj	d0715500abc17549
+153	2040	8041798973606800	CMakeFiles/timetabling.dir/src/constraints/HardConstraints.cpp.obj	75b7446122846bd4
+608	2159	8041798978186883	CMakeFiles/timetabling.dir/src/utils/SampleDataGenerator.cpp.obj	e88a50bb6b37df28
+80	2161	8041798972903344	CMakeFiles/timetabling.dir/src/config/ConfigManager.cpp.obj	979cf9085c4227bf
+48	2171	8041798972580944	CMakeFiles/timetabling.dir/src/algorithm/NSGAII.cpp.obj	d45fb470e6f41d95
+226	2188	8041798974363319	CMakeFiles/timetabling.dir/src/engine/TimetableEngine.cpp.obj	de3c641b23463fb
+305	2217	8041798975097223	CMakeFiles/timetabling.dir/src/main.cpp.obj	3d8a3c09bfa6d251
+193	2260	8041798974035776	CMakeFiles/timetabling.dir/src/constraints/SoftConstraints.cpp.obj	d9b6f451321c58af
+267	2323	8041798974771799	CMakeFiles/timetabling.dir/src/interpreter/ResultInterpreter.cpp.obj	1f3bb9bebc79e7ec
+2323	3370	8041798995330765	timetabling.exe	f92c6fe5ab73dca
